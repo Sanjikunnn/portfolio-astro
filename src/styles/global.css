@@ -24,14 +24,6 @@
 	--accent-text-over: var(--gray-999);
 
 	--link-color: var(--accent-regular);
-	
-	/* src/styles/global.css */
-	.cover-image {
-	  width: 100%;
-	  height: 100%;
-	  object-fit: cover;
-	  display: block;
-	}
 
 	/* Gradients */
 	--gradient-stop-1: var(--accent-light);
